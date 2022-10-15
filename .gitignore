@@ -33,9 +33,9 @@ migrate_working_dir/
 /build/
 
 # C++ Files to linux and windows
-linux/
-macos/
-windows/
+/linux/
+/macos/
+/windows/
 
 # Symbolication related
 app.*.symbols
