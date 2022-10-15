@@ -32,6 +32,11 @@ migrate_working_dir/
 .pub/
 /build/
 
+# C++ Files to linux and windows
+linux/
+macos/
+windows/
+
 # Symbolication related
 app.*.symbols
 
